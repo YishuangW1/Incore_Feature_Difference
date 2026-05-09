@@ -1,0 +1,8 @@
+2026-05-08 00:45:37,276 - root - INFO - --- Starting the Data Analysis Pipeline ---
+2026-05-08 00:45:37,277 - root - INFO - --- Running: 1_dataCleaning.py ---
+2026-05-08 00:45:38,392 - root - INFO - --- Finished: 1_dataCleaning.py ---
+2026-05-08 00:45:38,392 - root - INFO - --- Running: 2_dataPreprocessing.py ---
+2026-05-08 00:45:40,346 - root - INFO - --- Finished: 2_dataPreprocessing.py ---
+2026-05-08 00:45:40,347 - root - INFO - --- Running: 3_mutual_info.py ---
+2026-05-08 00:45:46,957 - root - INFO - --- Finished: 3_mutual_info.py ---
+2026-05-08 00:45:46,958 - root - INFO - --- Running: 4_modeling.py ---
