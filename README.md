@@ -1,4 +1,4 @@
-# Feature Importance Damage Modeling Pipeline
+# Feature Importance Modeling Pipeline
 
 This repository contains the machine learning pipeline used for modeling and predicting structural damage probabilities difference between the simulated and the truth (Ranked Probability Skill Score - RPSS) for tornadoes. 
 
